@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1068371374306",
+    "firebase_url": "https://database-locationvoiture.firebaseio.com",
+    "project_id": "database-locationvoiture",
+    "storage_bucket": "database-locationvoiture.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068371374306:android:b9e61a7f6d8e2f01",
+        "android_client_info": {
+          "package_name": "com.example.ghaith.locationvoiture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068371374306-7m9jsgk2u1utqt2ro1975j0mu8brqko7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ghaith.locationvoiture",
+            "certificate_hash": "98738fa7797149cc39125164eafcdc42dd33bbcd"
+          }
+        },
+        {
+          "client_id": "1068371374306-p72uhd4c1hvdf4tabb7rfk5ct9t3dnmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEM7GPAUhmAKvDLRzyEygls6QxwVTI2RI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068371374306-p72uhd4c1hvdf4tabb7rfk5ct9t3dnmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

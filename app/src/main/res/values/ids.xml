@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textInputLayoutName" type="id" />
+    <item name="textInputLayoutConfirmPassword" type="id" />
+    <item name="appCompatButtonRegister" type="id" />
+    <item name="appCompatTextViewLoginLink" type="id" />
+</resources>

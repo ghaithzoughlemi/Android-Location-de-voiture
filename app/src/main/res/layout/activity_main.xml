@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.ghaith.locationvoiture.MainActivity">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rent A car"
+        android:gravity="center"
+        android:textSize="50dp"
+        android:textStyle="bold|italic"
+        android:fontFamily="cursive"
+        android:textColor="#083764"/>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       android:src="@drawable/rent" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bt1"
+        android:text="Mon compte"
+        android:fontFamily="casual"
+        android:textAllCaps="false"
+        android:textSize="30dp"
+        android:textStyle="italic"
+        android:scrollbarStyle="insideInset"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bt2"
+        android:text="Recherche"
+        android:fontFamily="casual"
+        android:textAllCaps="false"
+        android:textSize="30dp"
+        android:textStyle="italic"
+        android:scrollbarStyle="insideInset"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bt3"
+        android:text="Localisation"
+        android:textAllCaps="false"
+        android:fontFamily="casual"
+        android:textSize="30dp"
+        android:scrollbarStyle="insideInset"
+        />
+
+</LinearLayout>
